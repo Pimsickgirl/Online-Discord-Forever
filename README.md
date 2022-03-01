@@ -22,7 +22,7 @@ async def on_ready():
 client.run(os.getenv("TOKEN"), bot=False)
 ```
 
-This Code is from [this tutorial](https://youtu.be/yfgEbZAXMAQ). If you have any doubts regarding this, feel free to [contact me](dsc.gg/fzuknowme).
+This Code is from [this tutorial](https://youtu.be/yfgEbZAXMAQ). If you have any doubts regarding this, feel free to [contact me](https://dsc.gg/fzuknowme).
 
 **DO NOT GIVE YOUR TOKEN TO OTHERS!**
 
